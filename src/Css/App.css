@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+
+body {
+    background-color: #3c2175;
+}
+
+.App {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.input-group {
+    width: 60%;
+}
+
+.card {
+    max-width: 70%;
+}
+
+.card-title{
+    position: absolute;
+    padding: 20px;
+}
+
+.card-date{
+    position: absolute;
+    padding: 20px;
+    margin-top: 60px;
+}
+
+.card-temp{
+    position: absolute;
+    margin-top: 500px;
+    font-size: 50px;
+}
+
+.card-desc{
+    position: absolute;
+    padding-top: 20px;
+    margin-top: 550px;
+    font-size: 20px;
+}
+
+.cities-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 60%;
+    margin: auto;
+}
+
+.city-button {
+    background: none;
+    border: none;
+    color: #fff;
+}
+
+.city-button:hover {
+    color: rgb(46, 89, 180);
+}
+
+.city-button:active {
+    color: rgb(17, 47, 112);
+}
+
+.navbar {
+    background-color: #664d9c;
+}
+
+.card {
+    background: #4a3872;
+}
+
