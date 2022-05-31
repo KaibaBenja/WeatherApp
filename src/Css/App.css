@@ -19,30 +19,6 @@ body {
     max-width: 70%;
 }
 
-.card-title{
-    position: absolute;
-    padding: 20px;
-}
-
-.card-date{
-    position: absolute;
-    padding: 20px;
-    margin-top: 60px;
-}
-
-.card-temp{
-    position: absolute;
-    margin-top: 500px;
-    font-size: 50px;
-}
-
-.card-desc{
-    position: absolute;
-    padding-top: 20px;
-    margin-top: 550px;
-    font-size: 20px;
-}
-
 .cities-container {
     display: flex;
     flex-direction: row;
@@ -73,3 +49,4 @@ body {
     background: #4a3872;
 }
 
+media quer
